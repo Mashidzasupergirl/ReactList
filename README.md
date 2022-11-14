@@ -1,2 +1,2 @@
-# ReactList
-Full stack React application. With GET, POST and DELETE methods. 
+cd server npm start
+cd front-end npm start
